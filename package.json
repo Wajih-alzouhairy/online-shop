@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "web store",
   "main": "index.js",
+  "homepage": "http://Wajih-alzouhairy/fbw-26",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
