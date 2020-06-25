@@ -8,7 +8,6 @@ export default class App extends Component {
     cardItems: [],
   };
   addHandler = (cardObject) => {
-    // console.log("ss", cardObject);
     this.setState({
       ...this.state,
       cardItems: [...this.state.cardItems, cardObject],
