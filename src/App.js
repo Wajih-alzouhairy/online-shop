@@ -7,6 +7,7 @@ export default class App extends Component {
   state = {
     cardItems: [],
   };
+  // add items
   addHandler = (cardObject) => {
     this.setState({
       ...this.state,
